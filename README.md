@@ -1,8 +1,8 @@
-# Custom_LLM
+# Fine_Tuned_Custom_Text_Generation_Model-Custome_llm
 
 ## Overview
 
-Custom_LLM (Custom Language Model) is a deep learning model designed to extract datasets from PDF documents and generate text-based content from the extracted data. 
+Fine_Tuned_Custom_Text_Generation_Model-Custome_llm(Custom Language Model) is a deep learning model designed to extract datasets from PDF documents and generate text-based content from the extracted data. 
 
 ## Features
 
